@@ -1,7 +1,7 @@
 # Flood-Susceptibility-GIS-Modeling
 Research Publication : This project documents the GIS-based methodology used for flood susceptibility mapping in the Southern Indian Kali River basin. I utilized Multi-Criteria Decision Analysis, integrated with the Analytical Hierarchy Process (AHP) to weigh eight thematic environmental layers, including slope, land use, and rainfall intensity
 
-# Flood Susceptibility Mapping using GIS-based AHP Modeling
+# Flood Susceptibility Mapping using GIS-based AHP Modeling- https://doi.org/10.1016/j.rines.2025.100079
 
 ## Project Overview
 This repository documents the Multi-Criteria Decision Analysis (MCDA) used to identify flood-prone zones in the Kali River Basin (Southwest India). This research was critical following the unprecedented 2019 flood events in the region.
